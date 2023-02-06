@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=balck&height=200&section=header&text=HWANG-INHWAN&fontSize=50&fontAlign=25&fontAlignY=40&desc=@kok05206&fontColor=F1F1F1&descAlignY=60&descAlign=88&" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=balck&height=200&section=header&text=Hwang_inhwan&fontSize=50&fontAlign=25&fontAlignY=40&desc=@kok05206&fontColor=F1F1F1&descAlignY=60&descAlign=88&" />
 
   <h3>📚 Stacks 📚</h3>
   <br>
